@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361473058218",
+    "firebase_url": "https://androidshopapp-416b5.firebaseio.com",
+    "project_id": "androidshopapp-416b5",
+    "storage_bucket": "androidshopapp-416b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361473058218:android:340ab0ba66da87301437d3",
+        "android_client_info": {
+          "package_name": "jdulal.com.np.androidshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361473058218-r0mssfu0q2a61p4eonm4ahif65hvt8jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jdulal.com.np.androidshopapp",
+            "certificate_hash": "58dcf860d2ec618c52bb2d1bb696c2432f1fe1db"
+          }
+        },
+        {
+          "client_id": "361473058218-pe7v52tohal114eo6g2o6dfc7hqivq87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuzCh1I4g_ttOaBWT2WKj18dpgi8y1RdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361473058218-pe7v52tohal114eo6g2o6dfc7hqivq87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
