@@ -77,7 +77,7 @@ public class LoginActivity extends AppCompatActivity {
                                 user.setEmail(userEmail.getText().toString()); //Set Phone
                                 if (user.getPassword().equals(userPassword.getText().toString())) {
                                     {
-                                        Intent shopIntent = new Intent(LoginActivity.this, ShopActivity.class);
+                                        Intent shopIntent = new Intent(LoginActivity.this, HomeActivity.class);
                                         Common.currentUser = user;
                                         startActivity(shopIntent);
                                         finish();
